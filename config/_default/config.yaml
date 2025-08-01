@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 상욱이의 기술 블로그 # Website name
+title: toddjrdl # Website name
 baseURL: 'https://toddjrdl.github.io/' # Website URL
 
 ############################
