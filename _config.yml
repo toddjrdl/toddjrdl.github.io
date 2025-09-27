@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US" # see https://jekyllrb.com/docs/configuration/options/#locales for available options
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "SangUk's Academic Portfolio"
+title                    : "Ahn's Academic Portfolio"
 title_separator          : "-"
 name                     : &name "SangUk Ahn"
 description              : &description "SangUk Ahn"
