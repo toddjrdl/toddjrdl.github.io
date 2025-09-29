@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to SangUk Ahn(안상욱)'s Portfolio"
+title: "Welcome to SangUk Ahn(안상욱)'s Homepage :)"
 author_profile: true
 redirect_from: 
   - /about/
