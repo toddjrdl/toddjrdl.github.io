@@ -27,10 +27,3 @@ Final Station
 ------
 I'm currently applying to graduate programs in robotics and mechanical engineering, especially in fields related to humanoid locomotion and origami-based design.
 If you’re working on similar topics or just want to talk about robots that walk and fold, feel free to reach out.
-
-
-**Template Information**
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
