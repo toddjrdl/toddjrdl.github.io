@@ -6,14 +6,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Mechanical Engineering Student at Seoul National University  
+Undergraduate Student at Seoul National University in Mechanical Engineering
 Researching in Robotics & Origami-based Structures
 
 What I'm Working On
 ------
-1. RL-based control for humanoid locomotion (sim2real, privileged learning)
-1. Thick-origami actuation with Hyundai for deployable structures
+1. Thick-origami actuation with Hyundai Motor Company for deployable structures
 1. Robotics that combines materials, geometry, and intelligence
+1. RL-based control for humanoid locomotion (sim2real, privileged learning)
+
+Most Recent Project
+------
+
+Thick-origami actuation with Hyundai Motor Company for deployable structures
+
+More information on [Portfolio](https://toddjrdl.github.io/portfolio/)
 
 My Vision
 ------
@@ -25,5 +32,5 @@ I build my simulations in Isaac Gym and MuJoCo, prototype in Fusion360, and depl
 
 Final Station
 ------
-I'm currently applying to graduate programs in robotics and mechanical engineering, especially in fields related to humanoid locomotion and origami-based design.
-If you’re working on similar topics or just want to talk about robots that walk and fold, feel free to reach out.
+I'm currently applying to graduate programs in robotics and mechanical engineering, especially in fields related to humanoid locomotion or origami-based design.
+If you’re working on similar topics or just want to talk about robots, feel free to reach out.
