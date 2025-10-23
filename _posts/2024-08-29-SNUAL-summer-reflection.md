@@ -26,26 +26,32 @@ Coming from a mechanical engineering coursework background, I had this romantici
 **What I expected:** Running exciting experiments, discovering new phenomena, publishable results  
 **What I got:** Repetitive maintenance, data that needs careful interpretation, hardware limitations everywhere
 
-But here's the thing—**this was exactly what I needed to experience**.
+But here's the thing, **this was exactly what I needed to experience**.
 
 ## Key Lessons
 
 ### 1. Experimental Research is *Hard*
-When you're modifying a real engine, you can't just change parameters with a few lines of code. Every hardware modification takes time. Sensors fail. Data needs careful validation. The iteration speed is nothing like computational work.
+When you're modifying a real engine, you can't just change parameters with a few lines of code. Every hardware modification takes time. Sensors fail. Data needs careful validation. The iteration speed is nothing like computational work. Also, some experiments could be super sensitive to environments. Like engine, even weather changes can differ experimental results.
 
 ### 2. Supporting Roles Matter
-I used to think only the lead researcher's work mattered. Wrong. Literature review guides experimental design. Data analysis reveals patterns. Lab maintenance keeps research moving. Every role in the research ecosystem has value.
+I used to think only the lead researcher's work mattered. However, literature review guides experimental design. Data analysis reveals patterns. Lab maintenance keeps research moving. Every role in the research ecosystem has value.
 
 ### 3. Research Requires Patience
 Some experiments took weeks to set up for a few hours of data collection. Results often raised more questions than answers. Progress is nonlinear. This taught me to appreciate the long-term nature of research.
 
-## The Unexpected Outcome
+## The Real Takeaway
 
-This internship helped me realize something important: **I prefer computational research**.
+Here's what surprised me: **I actually enjoyed the experimental work**.
 
-Not because experimental work is inferior—it's not. But because I found myself more excited about the data analysis in MATLAB than the engine work itself. I kept thinking "what if we used RL to optimize this?" rather than "what if we modified the injector?"
+By running engine tests, observing combustion behavior, iteratively tuning parameters, I felt something deeply satisfying about working with physical systems and seeing direct results. The hands-on process of experimentation felt tangible in a way that's hard to replicate in pure simulation.
 
-This realization led me to my subsequent internships at DYROS (humanoid robot RL) and STAR Lab (origami actuation with RL)—both heavily computational. Without the SNUAL experience, I might not have discovered this preference.
+So why did I shift toward robotics and RL? Not because I disliked experimental research, but because **exploring different domains revealed interests I didn't know I had**.
+
+After SNUAL, I took courses in robotics, machine learning, and deep learning. Then new questions emerged: How do robots learn complex movements? How can we design intelligent, adaptive systems? These interests weren't waiting to be discovered. They emerged *because* I tried something different first.
+
+The SNUAL experience taught me that **curiosity compounds**. Working with engines didn't make me an engine researcher; it made me curious about optimization, control, and intelligent systems. Now at STAR Lab, I'm combining that appreciation for physical systems with computational approaches in origami robotics.
+
+That's the unexpected outcome: sometimes you need to explore one field to discover your passion lies at the intersection of several.
 
 ## What I'd Tell Past Me
 
