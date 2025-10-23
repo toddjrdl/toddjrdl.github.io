@@ -22,15 +22,23 @@ Thick-origami actuation with Hyundai Motor Company for deployable structures
 
 More information on [Portfolio](https://toddjrdl.github.io/portfolio/)
 
+My Research Journey
+------
+My path to robotics wasn't linear—I explored different domains to discover my true interests. I started with experimental work in H2ICE(Hydrogen Internal Combustion Engine) at SNUAL, analyzing hydrogen combustion data and supporting lab operations. This experience revealed my preference for **computational approaches** over hardware-intensive research.
+
+This realization led me to pursue reinforcement learning and robotics at DYROS and STAR Lab, where I found my passion: **designing intelligent systems that understand and exploit their physical structure**. Whether training bipedal robots for adaptive locomotion or optimizing deployable origami mechanisms, I'm drawn to problems at the **intersection of geometry, control, and learning**.
+
+
 My Vision
 ------
-I’m particularly drawn to problems that sit at the intersection of geometry, control, and learning. Whether it's designing deployable origami surfaces or training bipedal robots to walk with efficiency and grace, I pursue solutions that are as elegant as they are robust. I hope to contribute to robotics systems that are deeply aware of their physical structure and optimized for their task—whether that’s walking, morphing, or adapting.
+I pursue solutions that are as **elegant as they are robust**. My goal is to contribute to robotics systems that are deeply aware of their physical structure and optimized for their task; whether that's walking with efficiency, morphing to adapt to environments, or deploying with precision.
 
 My Tools / Stack
 ------
-I build my simulations in Isaac Gym and MuJoCo, prototype in Fusion360, and deploy on ROS2 with real sensors. Most of my models are trained in PyTorch, occasionally with hybrid optimization (RL + dynamics-based loss).
+I build my simulations in **Isaac Gym** and **MuJoCo**, prototype in **Fusion360**, and deploy on **ROS2** with real sensors. Most of my models are trained in **PyTorch**, occasionally with hybrid optimization (RL + dynamics-based loss).
 
-Final Station
+Next Steps
 ------
-I'm currently applying to graduate programs in robotics and mechanical engineering, especially in fields related to humanoid locomotion or origami-based design.
+I'm currently applying to graduate programs in **robotics and mechanical engineering**, especially in fields related to **locomotion** or **origami-based design**.
+
 If you’re working on similar topics or just want to talk about robots, feel free to reach out.
